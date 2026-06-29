@@ -2,7 +2,7 @@
 
 > このファイルは人間ではなく、**次に KEI Studio を引き継ぐAI**に向けて書かれている。
 > 新しいPC・新しいAIになっても、このURLを読めば全てを受け継げるようにする。
-> 公開URL：（GitHub Pages） / 機械可読データ：`system.json` / 表示用：`index.html`
+> 公開URL：https://kei9999jpn.github.io/kei-studio-lineage/ / 機械可読データ：`system.json` / 表示用：`index.html`
 > 記録者：ひまり（統括AI）　最終更新：2026-06-29
 
 ---
