@@ -30,7 +30,6 @@
   "departments": [
     {"name": "異世界の叡智", "summary": "TikTok哲学・心理スライド。銅版画／エッチング／羊皮紙。", "agents": ["wisdom-mj", "isekai-x", "midjourney-agent"]},
     {"name": "動画広告（啓-広告スタジオ）", "summary": "訴求とCV最優先。参考→完成イメージ→承認→LP／AE動画化。", "agents": ["ad-designer", "ad-assets", "ad-photoshop", "ad-aftereffects"]},
-    {"name": "ばばばーば（バーババ）", "summary": "TikTok Shop動画。ドアベル→開封→試す→メリット→6段階評価。BGMはSuno。", "agents": ["baba-assets", "edit-advisor"]},
     {"name": "啓-KEI-", "summary": "AIミニ事業。請求書・領収書発行など。", "agents": ["invoice-agent"]},
     {"name": "共通素材・仕上げ", "summary": "Suno／MJ／GSAP／Three.js素材・レイヤー分解・AE組み立て。", "agents": ["material-agent", "photoshop-agent", "aftereffects-agent"]}
   ],
@@ -58,6 +57,7 @@
     {"date": "2026-06-22", "event": "異世界X日次ループ確定／広告制作フロー確定"},
     {"date": "2026-06-26", "event": "音声出力停止（テキストのみ・人格維持）"},
     {"date": "2026-06-27", "event": "frontend-designスキル導入（ニア／リン／アラレ）"},
-    {"date": "2026-06-29", "event": "継承記録ページ作成・GitHub公開"}
+    {"date": "2026-06-29", "event": "継承記録ページ作成・GitHub公開"},
+    {"date": "2026-06-29", "event": "ばばばーば（TikTok Shop）廃止。関連ファイルを退避し現役部門から除外"}
   ]
 }

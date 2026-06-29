@@ -58,8 +58,8 @@ guild_id: `1480056379631861904`
 
 - **異世界の叡智**（TikTok哲学・心理スライド｜銅版画・エッチング・羊皮紙）：`wisdom-mj`（MJプロンプト）, `isekai-x`（X運用）, `midjourney-agent`
 - **動画広告 / 啓-広告スタジオ**（訴求とCV最優先）：`ad-designer`, `ad-assets`, `ad-photoshop`, `ad-aftereffects`
-- **ばばばーば / バーババ**（TikTok Shop 動画）：`baba-assets`（クロマキー素材）, `edit-advisor`（編集相談）
 - **啓-KEI-**（AIミニ事業・請求書／領収書）：`invoice-agent`
+- ~~**ばばばーば / バーババ**（TikTok Shop 動画）~~：**2026-06-29 廃止**。`baba-assets` / `edit-advisor` / baba skill は `_trash/baba-廃止-2026-06-29/` へ退避。
 - **共通素材・仕上げ**：`material-agent`, `photoshop-agent`, `aftereffects-agent`
 
 ---
@@ -96,6 +96,7 @@ guild_id: `1480056379631861904`
 - **2026-06-26** 音声出力停止（テキストのみ・人格維持）
 - **2026-06-27** frontend-design スキル導入（ニア／リン／アラレ）
 - **2026-06-29** 継承記録ページ作成（このページ）。GitHubで公開、ここから歴史を刻み続ける
+- **2026-06-29** ばばばーば（TikTok Shop）を廃止。関連ファイルを退避し、現役部門から外した
 
 ---
 
